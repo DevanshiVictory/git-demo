@@ -1,2 +1,4 @@
 My first git file
 Second line added
+updated from Day 2
+updated from Day 2
